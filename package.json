@@ -1,0 +1,40 @@
+
+{
+  "name": "react-native-amap-navigate",
+  "version": "1.0.0",
+  "description": "A ReactNative Amap Navigation Component for android and iOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ios",
+    "android",
+    "navigate",
+    "amap",
+    "react-native-amap-navigate"
+  ],
+  "author": {
+    "name": "zhangxiaofei123"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zhangxiaofei123/react-native-amap-navigate.git"
+  },
+  "devDependencies": {
+    "react": "^16.2.0",
+    "react-native": "^0.52.3"
+  },
+  "peerDependencies": {
+    "react": "^16.2.0"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  }
+}
